@@ -1,0 +1,62 @@
+https://www.thegeekstuff.com/2010/01/awk-introduction-tutorial-7-awk-print-examples
+
+
+https://linuxconfig.org/learning-linux-commands-awk
+
+
+
+
+
+mv commands
+
+
+https://www.geeksforgeeks.org/mv-command-linux-examples/
+
+
+find command
+
+
+https://www.geeksforgeeks.org/find-command-in-linux-with-examples/
+
+
+CP command
+
+
+https://www.geeksforgeeks.org/cp-command-linux-examples/
+
+
+RM command
+
+
+https://www.geeksforgeeks.org/rm-command-linux-examples/
+
+DIFF command
+
+
+
+
+my ip address 122.170.225.113
+
+
+DNS config you tube vedio https://www.youtube.com/watch?v=0X9em99Vcl0
+
+
+yum install bind* -y
+
+
+
+https://www.ostechnix.com/install-and-configure-dns-server-ubuntu-16-04-lts/     DNS
+
+
+https://www.tutorialspoint.com//linux_admin/linux_admin_shell_scripting.htm
+
+
+
+crontab.guru
+
+
+shell script
+
+https://github.com/search?utf8=%E2%9C%93&q=sample+shell+scripts&type=
+
+https://www.geeksforgeeks.org/diff-command-linux-examples/
